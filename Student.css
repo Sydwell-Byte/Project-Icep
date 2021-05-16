@@ -1,0 +1,162 @@
+ 
+.clr{
+	clear: both;
+}
+.contact_form{
+
+position: absolute;
+	top:40%;
+
+	left: 55%;
+}
+.Message{
+
+position: absolute;
+	bottom:-30%;
+
+	right: 145%;
+}
+textarea{
+	width: 250px;
+	padding: 4rem;
+  font-family: sans-serif;
+	font: 20px;
+	
+
+}
+.lab{
+
+
+	
+
+	width: 300px;
+	outline: none;
+	border:none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	color: #000;
+	margin-bottom: 20px;
+	
+	font-size: 20px;
+	top: 77px;
+
+}
+.bnt{
+	width: 200px;
+border:1px solid #000;
+border-radius: 4px;
+padding: 5px;
+margin: 5px;
+text-align: center;
+font-size: 15px;
+background: gray;
+}
+.bt{
+	width: 200px;
+border:1px solid #000;
+border-radius: 4px;
+padding: 5px;
+margin: 5px;
+text-align: center;
+font-size: 15px;
+background: gray;
+
+}
+a{
+	left :1px;
+	top:5px;
+}
+.bt:hover{
+	background-color: #fff;
+}
+.bnt:hover{
+	background-color: #fff;
+}
+
+body{
+	
+	background:url(30.jpg);
+height: 120vh;
+background-position:center;
+background-size: cover;
+
+}
+ul li{
+	float: right;
+   list-style: none;
+    display: inline;
+   border: 1px solid #fff;
+   padding: 9px 10px;
+   margin: 12px;
+   background: gray;
+   border-radius: 4px;
+
+}
+
+a{
+
+  color: #000;
+  
+ 
+}
+
+a:hover{
+  color :#fff;
+ 
+}
+
+
+
+
+h1{
+	position: absolute;
+font-size: 45px;	
+
+left: 336px;
+text-align: center;
+top: 113px;
+
+color: #000;
+}
+header{
+	background:url(30.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 120vh;
+}
+.Border{
+  position: absolute;
+	float: left;
+	width: 50%;
+	border:1px solid #fff;
+	padding: 7px;
+	border-radius: 4px;
+    background-color: gray;
+	box-sizing:border-box;
+	text-align: center;
+	top: 600px;
+	text-align: center;
+	left: 250px;
+}
+.last{
+
+  position: absolute;	float: right;
+	background: gray;
+	border-radius: 4px;
+	top: 500px;
+	right: 34px;
+	font-size: 9px;
+
+}
+.bn{
+width: 200px;
+border:1px solid #000;
+border-radius: 4px;
+padding: 5px;
+margin: 5px;
+float:left;
+font-size: 15px;
+background: gray;
+margin-bottom:60px; 
+}
+
